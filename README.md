@@ -2,13 +2,13 @@
 
 This is a repo for my 100 days css challenges. I will be posting my daily css challenges/solutions here.
 
-## Day 1
+## [Day 1 - Circle Team](./00-circle-team/README.md)
 - Nov 1, 2024
 - Daily Challenge from [I Code This](https://icodethis.com/)
 
 **Team Circle**
 
-![Challenge Team Circle](./docs/circle_team.webp)
+![Challenge Circle Team](./docs/circle_team.webp)
 
 Start with this design and transform it into a functional project using HTML, CSS, and JavaScript.
 
