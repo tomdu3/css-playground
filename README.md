@@ -4,14 +4,6 @@ This is a repo for my 100 days css challenges. I will be posting my daily css ch
 
 ## [Day 1 - Circle Team](./00-circle-team/README.md)
 - Nov 1, 2024
-- Daily Challenge from [I Code This](https://icodethis.com/)
-
-**Team Circle**
-
-![Challenge Circle Team](./docs/circle_team.webp)
-
-Start with this design and transform it into a functional project using HTML, CSS, and JavaScript.
-
-If you want to go the extra mile, expand upon it, and integrate your unique touch by adding animations and interactivity.
-
-Prioritize creativity over pixel-perfect accuracy and showcase your developer ingenuity.
+- Team Circle - Daily Challenge from [I Code This](https://icodethis.com/)
+- make a central image rounded and add a gallery of the smaller images surrounding it in circle.
+- make a circular text around the central image.
