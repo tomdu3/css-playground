@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: monospace;
 }
 
 body {
@@ -68,10 +69,18 @@ body {
     translate: 310px;
 }
 
+/* Arch Text */
 .arch-text {
     width: 100%;
     height: 100%;
     position: absolute;
     color: white;
-    translate: 250px 25px;
+    translate: 210px 20px;
+}
+
+.arch-text span {
+    position: absolute;
+    left: 50%;
+    font-size: 1.2em;
+    transform-origin: 0 130px;
 }
