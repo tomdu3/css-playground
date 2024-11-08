@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #f4f4f4;
+}
+
+header {
+    padding: 20px 30%;
+}
+nav {
+    padding: 10px 20px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+li {
+    text-decoration: none;
+    display: flex;
+}
+
+a {
+    color: black;
+}
+
+.container {
+    padding: 10px;
+    background-color: #fff;
+    box-shadow:
+        0 4px 8px rgba(0, 0, 0, 0.1),
+        0 6px 20px rgba(0, 0, 0, 0.1); /* Stronger shadow effect */
+    border-radius: 8px; /* Optional: for rounded corners */
+    & * {
+        padding: 5px;
+    }
+}
+
+.dropdown-content {
+    display: var(--open);
+    i {
+        color: #0066ff;
+    }
+
+    p {
+        margin-left: 50px;
+    }
+}
