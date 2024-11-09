@@ -12,6 +12,7 @@ body {
 header {
     padding: 20px 30%;
 }
+
 nav {
     padding: 10px 20px;
 }
@@ -32,21 +33,24 @@ a {
 }
 
 .container {
-    padding: 10px;
+    margin: 2rem 0;
+    padding: 2rem 2.5rem;
     background-color: #fff;
     box-shadow:
         0 4px 8px rgba(0, 0, 0, 0.1),
         0 6px 20px rgba(0, 0, 0, 0.1); /* Stronger shadow effect */
     border-radius: 8px; /* Optional: for rounded corners */
     & * {
-        padding: 5px;
+        padding: .7rem 0 .5rem 0;
     }
 }
 
 .dropdown-content {
+    padding: 5rem;
     display: var(--open);
     i {
         color: #0066ff;
+        padding: 0 10px 0 0;
     }
 
     p {
