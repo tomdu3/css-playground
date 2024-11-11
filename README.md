@@ -19,3 +19,8 @@ This is a repo for my 100 days css challenges. I will be posting my daily css ch
 - Nov 9, 2024
 - Price Details - Daily Challenge from [I Code This](https://icodethis.com/)
 - create a price details section with a price and a button.
+
+## [Day 4 - Timeline 2](./04-timeline-2/README.md)
+- Nov 11, 2024
+- Timeline 2 - Daily Challenge from [I Code This](https://icodethis.com/)
+- create a timeline card with icons and text.
